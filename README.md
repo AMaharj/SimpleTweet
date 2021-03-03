@@ -63,7 +63,7 @@ Describe any challenges encountered while building the app.
     limitations under the License.
 
 
-Project 3 - SimpleTweet Part 2
+# Project 3 - SimpleTweet Part 2
 
 Time spent: **3** hours spent in total
 
